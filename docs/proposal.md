@@ -20,3 +20,4 @@ THE CHILD IN THE STATE SCHOOL
 
 Proposed Layout
 ---------------------
+![alt text](layout.png)
