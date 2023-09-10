@@ -1,4 +1,6 @@
-# Your project name
-Your given and family name.
+# The Child Under Eight
+Arya Zarandazchi-Rahman
 
-A one-sentence description of your project.
+The Child Under Eight by Henrietta Brown Smith is a critique of public school education.
+
+Render: https://sqc-project.onrender.com
