@@ -21,3 +21,5 @@ erDiagram
         
     }
 ```
+
+DAVE can handle rejection.
